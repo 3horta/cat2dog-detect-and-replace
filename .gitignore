@@ -1,5 +1,7 @@
 .DS_Store
 test_data
+results
+drawn_images
 *.jpg
 *.pt
 # Byte-compiled / optimized / DLL files
