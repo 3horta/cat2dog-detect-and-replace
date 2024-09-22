@@ -7,3 +7,8 @@ Pillow
 pandas
 requests
 pathlib
+transformers
+diffusers
+accelerate
+lama-cleaner
+ipykernel

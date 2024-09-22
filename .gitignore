@@ -1,8 +1,9 @@
 .DS_Store
-test_data
 results
 drawn_images
-*.jpg
+edited_images
+debug
+*.mp4
 *.pt
 # Byte-compiled / optimized / DLL files
 __pycache__/
