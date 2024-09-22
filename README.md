@@ -38,8 +38,6 @@ pip install -r requirements.txt
 
 ## Configuration
 
-# Configuration
-
 - **YOLO Model**: Ensure the pre-trained YOLO model is set up properly. Specify the image for object detection.
 - **LAMA Model**: Ensure that the LAMA model is properly set up in your environment. This will be used to perform inpainting and other advanced image manipulations.
 - **Object Classes**: Ensure that the object type you want to detect is part of the YOLO class list.
